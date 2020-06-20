@@ -11,11 +11,130 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 爬虫工具代码: [getSub.py](https://gitee.com/alkeysheng/file_bed/blob/master/getSub.py)
 
   
+### 【睡前消息130】何鸿燊这样的赌王，对中国人民太“贵”了点
+
+------
+
+播放量: 527003     [AV926106116](https://www.bilibili.com/video/av926106116)
+
+睡前消息20200619
+Uzi退役入驻B站；
+澳门赌王何鸿燊去世；
+其它新闻短评。
+
+### 【睡前消息129】砸哥伦布雕像，不好！砸丘吉尔雕像，好！
+
+------
+
+播放量: 938537     [AV711077415](https://www.bilibili.com/video/av711077415)
+
+睡前消息20200616
+上海计划修建多条城际铁路；
+江苏今年将开通两座长江铁路大桥；
+美国警察高额工资；
+牛奶抗生素问题补充； 
+欧美反种族主义抗议者损毁塑像。
+
+### 【睡前消息128】美国，如何变成一个阶级隔离下的警察国家？
+
+------
+
+播放量: 736196     [AV413522153](https://www.bilibili.com/video/av413522153)
+
+睡前消息20200614
+美国，从种族主义，警察腐败，到阶级隔离。
+
+### 【睡前消息127】河南发现“河洛古国”，实锤了中国五千年历史？
+
+------
+
+播放量: 746056     [AV838477605](https://www.bilibili.com/video/av838477605)
+
+双槐树遗址被定义为“河洛古国”；
+美国实现了人类细胞可控、可逆变透明；
+《瞭望》周刊发表《长江流域抗生素污染调查》。
+
+### 【睡前消息126】土耳其直接插手利比亚，俄罗斯马上加入战场？
+
+------
+
+播放量: 556742     [AV668414122](https://www.bilibili.com/video/av668414122)
+
+睡前消息20200609
+土耳其军舰在利比亚领海开火；
+怎么看待快手宣传片《看见》。
+
+### 【睡前消息125】日本这一手“装鸵鸟大法”，真熬过了疫情？
+
+------
+
+播放量: 1194868     [AV710877794](https://www.bilibili.com/video/av710877794)
+
+睡前消息20200607
+永定河淹没高尔夫球场；
+日本防疫成功了？
+“五个一”政策问题。
+
+### 【睡前消息124】有些地方债越来越高，却还拿中央拨款再去举债？
+
+------
+
+播放量: 743077     [AV838491228](https://www.bilibili.com/video/av838491228)
+
+睡前消息20200605
+商务部长称要增加全国连锁店；
+姚洋：地方借债应受到人大监督；
+一线乡村教师谈社会化抚养。
+
+### 【睡前消息】学习工作外的知识，可以为了有趣，别为了有用！【马前卒vs董佳宁】
+
+------
+
+播放量: 537225     [AV883498781](https://www.bilibili.com/video/av883498781)
+
+马前卒谈：工作中用不到的知识，真的有学习必要吗？
+
+### 【睡前消息123】徐州三院卖光国有股份，三甲医院彻底私有化？
+
+------
+
+播放量: 817240     [AV840920106](https://www.bilibili.com/video/av840920106)
+
+睡前消息20200602
+徐州三院彻底私有化；
+中欧班列疫情下逆势增长；
+《国家畜禽遗传资源目录》正式公布。
+
+### 【睡前消息122】这条隧道中国修了12年，为了印度洋出海口！
+
+------
+
+播放量: 876697     [AV753284777](https://www.bilibili.com/video/av753284777)
+
+睡前消息20200531
+大柱山隧道历经12年终建成；
+“狗不理包子”退市；
+其它新闻后续。
+
+### 【睡前消息121】清华要取消新闻系本科，工科男却为何在当主播？
+
+------
+
+播放量: 741186     [AV753305887](https://www.bilibili.com/video/av753305887)
+
+睡前消息20200529
+清华大学停招新闻本科生；
+荐读《弱传播》；
+教育部：京津冀统一高考不宜实行；
+关于北京车牌摇号的提案；
+双语硕士应聘保姆。
+
 ### 【睡前消息120】美国女足要求和男足同工同酬，为什么被驳回？
 
 ------
 
-播放量: 657115     [AV328296987](https://www.bilibili.com/video/av328296987)
+播放量: 741943     [AV328296987](https://www.bilibili.com/video/av328296987)
+
 睡前消息20200526
 美国女足要求同工同酬被驳回；
 39篇中国学者论文遭国外期刊撤稿。
@@ -24,7 +143,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 881973     [AV625870715](https://www.bilibili.com/video/av625870715)
+播放量: 936914     [AV625870715](https://www.bilibili.com/video/av625870715)
+
 睡前消息20200524
 王石捐了2亿股票给清华；
 武汉大学深圳校区取消；
@@ -34,7 +154,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 730655     [AV795833569](https://www.bilibili.com/video/av795833569)
+播放量: 789392     [AV795833569](https://www.bilibili.com/video/av795833569)
+
 睡前消息20200522
 如何评价B站新MV《入海》；
 国家推进房地产税立法。
@@ -43,7 +164,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 820095     [AV753173389](https://www.bilibili.com/video/av753173389)
+播放量: 871748     [AV753173389](https://www.bilibili.com/video/av753173389)
+
 睡前消息20200519
 香港TVB电视台连续亏损；
 上海建设超导电缆。
@@ -52,7 +174,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 1031295     [AV840687827](https://www.bilibili.com/video/av840687827)
+播放量: 1081242     [AV840687827](https://www.bilibili.com/video/av840687827)
+
 睡前消息0517
 美国政府对脸书开出50亿美元罚单；
 古巴医疗水平究竟如何；
@@ -62,7 +185,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 742395     [AV328133682](https://www.bilibili.com/video/av328133682)
+播放量: 758835     [AV328133682](https://www.bilibili.com/video/av328133682)
+
 睡前消息0515
 “27岁有400栋楼”视频引争议；
 印度首富身价超马云成亚洲首富；
@@ -72,7 +196,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 969420     [AV795712596](https://www.bilibili.com/video/av795712596)
+播放量: 1002424     [AV795712596](https://www.bilibili.com/video/av795712596)
+
 睡前消息20200512
 英国政府要拿BBC开刀；
 北京西城区实行多校划片。
@@ -81,7 +206,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 1025514     [AV925595196](https://www.bilibili.com/video/av925595196)
+播放量: 1049669     [AV925595196](https://www.bilibili.com/video/av925595196)
+
 睡前消息20200510
 吉利会成为中国的特斯拉吗？
 埃克森美孚在中国建乙烯厂。
@@ -90,7 +216,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 1709899     [AV455569304](https://www.bilibili.com/video/av455569304)
+播放量: 1756632     [AV455569304](https://www.bilibili.com/video/av455569304)
+
 睡前消息0508
 谈谈阅文合同风波和腾讯
 
@@ -98,7 +225,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 863499     [AV668088868](https://www.bilibili.com/video/av668088868)
+播放量: 880935     [AV668088868](https://www.bilibili.com/video/av668088868)
+
 睡前消息20200505
 深圳高房价；
 如何评价宣传片《后浪》。
@@ -107,7 +235,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 943236     [AV710565031](https://www.bilibili.com/video/av710565031)
+播放量: 973083     [AV710565031](https://www.bilibili.com/video/av710565031)
+
 睡前消息20200503
 举办线上广交会；
 中国帮助孟加拉修建帕德玛大桥。
@@ -116,7 +245,8 @@ EXCEL下载: [《睡前消息》节目往期新闻事件索引.xls](https://gite
 
 ------
 
-播放量: 763469     [AV967905587](https://www.bilibili.com/video/av967905587)
+播放量: 768676     [AV967905587](https://www.bilibili.com/video/av967905587)
+
 睡前消息0501
 AI“读心术”又有新进展；
 河北多个村庄出现自来水异常；
@@ -126,7 +256,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 983863     [AV795393398](https://www.bilibili.com/video/av795393398)
+播放量: 995673     [AV795393398](https://www.bilibili.com/video/av795393398)
+
 睡前消息20200428
 俄罗斯疫情恶化；
 部分中国公民滞留中俄边境；
@@ -136,7 +267,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 741618     [AV455489843](https://www.bilibili.com/video/av455489843)
+播放量: 745864     [AV455489843](https://www.bilibili.com/video/av455489843)
+
 睡前消息0426
 疫情导致多国限制粮食出口，中国粮食储备充足；
 衢州教育局要求学校行作揖礼。
@@ -145,7 +277,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1481034     [AV925383049](https://www.bilibili.com/video/av925383049)
+播放量: 1498404     [AV925383049](https://www.bilibili.com/video/av925383049)
+
 睡前消息20200424
 韩国SK集团政商婚姻破裂；
 什么是数字新基建；
@@ -155,7 +288,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 935093     [AV285350771](https://www.bilibili.com/video/av285350771)
+播放量: 946540     [AV285350771](https://www.bilibili.com/video/av285350771)
+
 睡前消息20200421
 美国日本联手将企业搬出中国；
 诺基亚贝尔竞标失败；
@@ -165,7 +299,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 884984     [AV795275092](https://www.bilibili.com/video/av795275092)
+播放量: 893135     [AV795275092](https://www.bilibili.com/video/av795275092)
+
 睡前消息20200419
 如何避免更多“鲍毓明”的出现。
 
@@ -173,7 +308,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 832461     [AV370269034](https://www.bilibili.com/video/av370269034)
+播放量: 835664     [AV370269034](https://www.bilibili.com/video/av370269034)
+
 睡前消息0418
 “新冠病毒来源于美国”这种说法是怎么演变来的；
 什么是“生命游戏”。
@@ -182,7 +318,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 908703     [AV497830432](https://www.bilibili.com/video/av497830432)
+播放量: 916578     [AV497830432](https://www.bilibili.com/video/av497830432)
+
 睡前消息20200414
 加格达奇的历史归属问题；
 往期观众评论互动。
@@ -191,7 +328,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 815979     [AV540226326](https://www.bilibili.com/video/av540226326)
+播放量: 819446     [AV540226326](https://www.bilibili.com/video/av540226326)
+
 睡前消息20200412
 凉山火灾又导致19人牺牲；
 消防队研究【睡前消息】。
@@ -200,7 +338,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1290954     [AV412634097](https://www.bilibili.com/video/av412634097)
+播放量: 1299225     [AV412634097](https://www.bilibili.com/video/av412634097)
+
 睡前消息0410
 农业部公开征求意见：拟禁食狗肉；
 郝柏村去世；
@@ -210,7 +349,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 832160     [AV882657105](https://www.bilibili.com/video/av882657105)
+播放量: 837030     [AV882657105](https://www.bilibili.com/video/av882657105)
+
 睡前消息20200407
 东阿阿胶上市24年来首次亏损；
 通州和北三县协同发展规划出炉。
@@ -219,7 +359,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1079808     [AV582655283](https://www.bilibili.com/video/av582655283)
+播放量: 1083185     [AV582655283](https://www.bilibili.com/video/av582655283)
+
 睡前消息20200405
 毛虾引起核电站停堆；
 科学家精准删除特定记忆；
@@ -229,7 +370,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1180815     [AV412501562](https://www.bilibili.com/video/av412501562)
+播放量: 1186877     [AV412501562](https://www.bilibili.com/video/av412501562)
+
 睡前消息20200403
 江浙沪全面实行公民同招；
 各省市GDP大挤水；
@@ -240,7 +382,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 701948     [AV840005451](https://www.bilibili.com/video/av840005451)
+播放量: 704715     [AV840005451](https://www.bilibili.com/video/av840005451)
+
 睡前消息96
 督工带你看一看上海
 
@@ -248,7 +391,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1506158     [AV100412675](https://www.bilibili.com/video/av100412675)
+播放量: 1515571     [AV100412675](https://www.bilibili.com/video/av100412675)
+
 睡前消息0329
 中国敬业集团收购英国钢铁集团。
 
@@ -256,7 +400,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 2726322     [AV99889893](https://www.bilibili.com/video/av99889893)
+播放量: 2801030     [AV99889893](https://www.bilibili.com/video/av99889893)
+
 睡前消息0327
 海阳核电站事故；
 韩国李家三星集团现状；
@@ -266,7 +411,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1225924     [AV99030099](https://www.bilibili.com/video/av99030099)
+播放量: 1228957     [AV99030099](https://www.bilibili.com/video/av99030099)
+
 睡前消息0324
 张伟丽卫冕UFC冠军；
 台湾省出口口罩；
@@ -276,7 +422,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1065262     [AV98294260](https://www.bilibili.com/video/av98294260)
+播放量: 1068655     [AV98294260](https://www.bilibili.com/video/av98294260)
+
 睡前消息0322
 印度扣下中国货轮；
 日本公司涉嫌对华出口“军事设备”；
@@ -287,7 +434,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 833448     [AV97954053](https://www.bilibili.com/video/av97954053)
+播放量: 835541     [AV97954053](https://www.bilibili.com/video/av97954053)
+
 睡前消息0320
 苹果“降速门”；
 拾荒老人因防疫措施被打；
@@ -297,7 +445,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1194782     [AV97117603](https://www.bilibili.com/video/av97117603)
+播放量: 1197658     [AV97117603](https://www.bilibili.com/video/av97117603)
+
 睡前消息0317
 日本为什么不愿取消东京奥运会。
 
@@ -305,7 +454,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 809383     [AV96571991](https://www.bilibili.com/video/av96571991)
+播放量: 812116     [AV96571991](https://www.bilibili.com/video/av96571991)
+
 睡前消息20200315
 方正如何沦落
 
@@ -313,7 +463,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 980922     [AV96053848](https://www.bilibili.com/video/av96053848)
+播放量: 987229     [AV96053848](https://www.bilibili.com/video/av96053848)
+
 睡前消息0313
 快手网红辛有志给武汉捐款1亿；
 山西垣曲抽水蓄能电站复工。
@@ -322,7 +473,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 730598     [AV95305004](https://www.bilibili.com/video/av95305004)
+播放量: 733783     [AV95305004](https://www.bilibili.com/video/av95305004)
+
 睡前消息0310
 刘亦菲《花木兰》吻戏被删
 
@@ -330,7 +482,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 756493     [AV94778716](https://www.bilibili.com/video/av94778716)
+播放量: 758746     [AV94778716](https://www.bilibili.com/video/av94778716)
+
 睡前消息20200308
 美国男子为证明地平说坐火箭上天遇意外去世。
 
@@ -338,7 +491,8 @@ AI“读心术”又有新进展；
 
 ------
 
-播放量: 1489231     [AV94204894](https://www.bilibili.com/video/av94204894)
+播放量: 1494894     [AV94204894](https://www.bilibili.com/video/av94204894)
+
 睡前消息20200306
 SpaceX星际飞船SN1原型爆炸；
 肖战粉丝大闹互联网。
@@ -347,7 +501,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 891853     [AV93474806](https://www.bilibili.com/video/av93474806)
+播放量: 895263     [AV93474806](https://www.bilibili.com/video/av93474806)
+
 睡前消息20200303
 武汉百步亭社区；
 香港给民众发钱。
@@ -356,7 +511,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 4176920     [AV92987484](https://www.bilibili.com/video/av92987484)
+播放量: 4183548     [AV92987484](https://www.bilibili.com/video/av92987484)
+
 睡前消息20200301
 关注《外国人永久居住管理条例》
 
@@ -364,7 +520,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 759547     [AV92483969](https://www.bilibili.com/video/av92483969)
+播放量: 762119     [AV92483969](https://www.bilibili.com/video/av92483969)
+
 睡前消息20200228
 美国童子军协会牵涉成千上万起性侵案
 
@@ -372,7 +529,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1373953     [AV91682858](https://www.bilibili.com/video/av91682858)
+播放量: 1379693     [AV91682858](https://www.bilibili.com/video/av91682858)
+
 睡前消息0225
 韩国基督教会公然聚会；
 发现“滇国相印”的历史意义；
@@ -382,7 +540,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 782491     [AV91175916](https://www.bilibili.com/video/av91175916)
+播放量: 785985     [AV91175916](https://www.bilibili.com/video/av91175916)
+
 睡前消息0223
 加拿大巨头庞巴迪离开航空业；
 小米美团申请低息贷款；
@@ -392,7 +551,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 602259     [AV90638866](https://www.bilibili.com/video/av90638866)
+播放量: 604032     [AV90638866](https://www.bilibili.com/video/av90638866)
+
 睡前消息0221
 各省市复工积极性不同；
 如何看待各地奖励医护人员“子女择校权”。
@@ -401,7 +561,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 911484     [AV89468755](https://www.bilibili.com/video/av89468755)
+播放量: 924989     [AV89468755](https://www.bilibili.com/video/av89468755)
+
 睡前消息78
 纪录片《美国工厂》
 
@@ -409,7 +570,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1292317     [AV88991250](https://www.bilibili.com/video/av88991250)
+播放量: 1304344     [AV88991250](https://www.bilibili.com/video/av88991250)
+
 睡前消息77
 为何会出现“散装江苏”的现象；
 线上文化产品崛起。
@@ -418,7 +580,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 616423     [AV88502791](https://www.bilibili.com/video/av88502791)
+播放量: 617773     [AV88502791](https://www.bilibili.com/video/av88502791)
+
 睡前消息0212
 继续跟踪防疫相关动态
 
@@ -426,7 +589,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 758635     [AV88041954](https://www.bilibili.com/video/av88041954)
+播放量: 760543     [AV88041954](https://www.bilibili.com/video/av88041954)
+
 睡前消息0210
 我们应该如何对待湖北人民？
 
@@ -434,7 +598,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 933613     [AV86747145](https://www.bilibili.com/video/av86747145)
+播放量: 942991     [AV86747145](https://www.bilibili.com/video/av86747145)
+
 睡前消息73
 继续跟踪武汉疫情相关新闻
 
@@ -442,7 +607,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1438373     [AV86344512](https://www.bilibili.com/video/av86344512)
+播放量: 1441368     [AV86344512](https://www.bilibili.com/video/av86344512)
+
 睡前消息0202
 继续追踪武汉疫情相关情况
 
@@ -450,7 +616,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1001443     [AV85978030](https://www.bilibili.com/video/av85978030)
+播放量: 1003389     [AV85978030](https://www.bilibili.com/video/av85978030)
+
 睡前消息0131
 抗击病毒不能反应过度；
 中国家用电器发展；
@@ -460,7 +627,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 822074     [AV84827103](https://www.bilibili.com/video/av84827103)
+播放量: 827098     [AV84827103](https://www.bilibili.com/video/av84827103)
+
 睡前消息第70期
 除夕夜，督工给B站同学们“表白”啦
 
@@ -468,7 +636,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1099102     [AV84418713](https://www.bilibili.com/video/av84418713)
+播放量: 1105457     [AV84418713](https://www.bilibili.com/video/av84418713)
+
 睡前消息0121
 
 中央介入恒丰银行重组；
@@ -481,7 +650,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1205977     [AV84156987](https://www.bilibili.com/video/av84156987)
+播放量: 1210922     [AV84156987](https://www.bilibili.com/video/av84156987)
+
 睡前消息0119
 
 同盾公司被查事件；
@@ -496,7 +666,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 687514     [AV83860075](https://www.bilibili.com/video/av83860075)
+播放量: 690452     [AV83860075](https://www.bilibili.com/video/av83860075)
+
 睡前消息0117
 被三大运营商集体拉黑的河南村庄；
 去年社保基金收益率15.5%；
@@ -506,7 +677,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 718798     [AV83416861](https://www.bilibili.com/video/av83416861)
+播放量: 722679     [AV83416861](https://www.bilibili.com/video/av83416861)
+
 睡前消息66
 
 江西拔除平均年龄79岁恶势力团伙；
@@ -519,7 +691,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 863061     [AV83161724](https://www.bilibili.com/video/av83161724)
+播放量: 878971     [AV83161724](https://www.bilibili.com/video/av83161724)
+
 睡前消息0112
 
 无人机在战争中的发展；
@@ -532,7 +705,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 690672     [AV82849597](https://www.bilibili.com/video/av82849597)
+播放量: 693534     [AV82849597](https://www.bilibili.com/video/av82849597)
+
 睡前消息0110
 
 高职教育教师要求修改；
@@ -545,7 +719,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 853536     [AV82475651](https://www.bilibili.com/video/av82475651)
+播放量: 857349     [AV82475651](https://www.bilibili.com/video/av82475651)
+
 睡前消息0107第63期
 台湾自主研发火箭；
 日本官员受中国彩票公司贿赂。
@@ -554,7 +729,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 701748     [AV82215193](https://www.bilibili.com/video/av82215193)
+播放量: 705043     [AV82215193](https://www.bilibili.com/video/av82215193)
+
 睡前消息0105第62期
 
 温州成立破产法庭；
@@ -565,7 +741,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 773997     [AV81936672](https://www.bilibili.com/video/av81936672)
+播放量: 776761     [AV81936672](https://www.bilibili.com/video/av81936672)
+
 睡前消息61
 年终盘点（下）
 教育与科技
@@ -575,14 +752,16 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 741269     [AV81660195](https://www.bilibili.com/video/av81660195)
+播放量: 744625     [AV81660195](https://www.bilibili.com/video/av81660195)
+
 睡前消息第60期：年终盘点（中）
 
 ### 【睡前消息59】年终盘点（上）：2019年，“特朗普三年”？
 
 ------
 
-播放量: 790409     [AV81482070](https://www.bilibili.com/video/av81482070)
+播放量: 793703     [AV81482070](https://www.bilibili.com/video/av81482070)
+
 睡前消息2019年终盘点（上）
 
 要盘点年终新闻，肯定绕不开美国；要谈美国，肯定绕不开特朗普。
@@ -591,7 +770,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 667790     [AV81032253](https://www.bilibili.com/video/av81032253)
+播放量: 696080     [AV81032253](https://www.bilibili.com/video/av81032253)
+
 睡前消息1228
 
 离婚设置“冷静期”；
@@ -600,20 +780,12 @@ SpaceX星际飞船SN1原型爆炸；
 
 敦格铁路。
 
-### 【答案茶话会04】马前卒施工队：睡前消息有哪些幕后故事？
-
-------
-
-播放量: 298372     [AV80770328](https://www.bilibili.com/video/av80770328)
-观视频2019答案年终秀E场茶话会
-
-嘉宾：马前卒施工队
-
 ### 【睡前消息57】安倍想去印度，纪念当年日军带领印军共抗大英…
 
 ------
 
-播放量: 751933     [AV80516444](https://www.bilibili.com/video/av80516444)
+播放量: 756824     [AV80516444](https://www.bilibili.com/video/av80516444)
+
 睡前消息1224
 
 印钞公司缺钱了；
@@ -626,7 +798,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 713537     [AV80266613](https://www.bilibili.com/video/av80266613)
+播放量: 717048     [AV80266613](https://www.bilibili.com/video/av80266613)
+
 睡前消息1222
 
 地方债信息发布；
@@ -637,7 +810,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 499037     [AV79958008](https://www.bilibili.com/video/av79958008)
+播放量: 501368     [AV79958008](https://www.bilibili.com/video/av79958008)
+
 睡前消息1220
 
 台湾网军逼死驻日官员；
@@ -648,7 +822,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 605106     [AV79655107](https://www.bilibili.com/video/av79655107)
+播放量: 606917     [AV79655107](https://www.bilibili.com/video/av79655107)
+
 睡前消息1217
 
 河北“清洁煤”为何引发一氧化碳中毒？
@@ -659,7 +834,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 776460     [AV79116575](https://www.bilibili.com/video/av79116575)
+播放量: 779307     [AV79116575](https://www.bilibili.com/video/av79116575)
+
 睡前消息1213
 
 李子柒的支持者和反对者都搞错了一些事；
@@ -670,7 +846,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 912386     [AV78778625](https://www.bilibili.com/video/av78778625)
+播放量: 939223     [AV78778625](https://www.bilibili.com/video/av78778625)
+
 睡前消息1210
 
 中国为巴基斯坦修公路；
@@ -685,14 +862,16 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 1090759     [AV78289618](https://www.bilibili.com/video/av78289618)
+播放量: 1097750     [AV78289618](https://www.bilibili.com/video/av78289618)
+
 睡前消息1206
 
 ### 【睡前消息50】关于“251”事件，华为应该自己来解释清楚
 
 ------
 
-播放量: 1976154     [AV77959619](https://www.bilibili.com/video/av77959619)
+播放量: 1982919     [AV77959619](https://www.bilibili.com/video/av77959619)
+
 睡前消息1203
 
 50期特别回顾；
@@ -703,7 +882,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 660005     [AV77719360](https://www.bilibili.com/video/av77719360)
+播放量: 662276     [AV77719360](https://www.bilibili.com/video/av77719360)
+
 睡前消息1201
 
 印度雾霾爆表；
@@ -716,7 +896,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 526636     [AV77479313](https://www.bilibili.com/video/av77479313)
+播放量: 529402     [AV77479313](https://www.bilibili.com/video/av77479313)
+
 睡前消息1129
 
 威尼斯被水淹没，不知所措；
@@ -729,7 +910,8 @@ SpaceX星际飞船SN1原型爆炸；
 
 ------
 
-播放量: 705541     [AV77124551](https://www.bilibili.com/video/av77124551)
+播放量: 707796     [AV77124551](https://www.bilibili.com/video/av77124551)
+
 睡前消息1126
 
 IS在中国邻国流窜；
@@ -742,7 +924,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 757867     [AV76896117](https://www.bilibili.com/video/av76896117)
+播放量: 760116     [AV76896117](https://www.bilibili.com/video/av76896117)
+
 睡前消息1124
 
 关于“毛宇纯悬赏”的消息；
@@ -755,7 +938,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 1074946     [AV76624298](https://www.bilibili.com/video/av76624298)
+播放量: 1078118     [AV76624298](https://www.bilibili.com/video/av76624298)
+
 睡前消息1122
 
 曾经远远领先新加坡的香港如何走到今天的局面？
@@ -764,7 +948,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 692310     [AV76288050](https://www.bilibili.com/video/av76288050)
+播放量: 694069     [AV76288050](https://www.bilibili.com/video/av76288050)
+
 睡前消息1119
 
 《死亡搁浅》的“中国基建”是新型营销？
@@ -775,7 +960,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 558359     [AV76020680](https://www.bilibili.com/video/av76020680)
+播放量: 560542     [AV76020680](https://www.bilibili.com/video/av76020680)
+
 睡前消息1117
 
 脑电波监控头环；
@@ -788,7 +974,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 550864     [AV75788909](https://www.bilibili.com/video/av75788909)
+播放量: 553175     [AV75788909](https://www.bilibili.com/video/av75788909)
+
 睡前消息1115
 
 关于减负与公考
@@ -797,7 +984,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 594749     [AV75470085](https://www.bilibili.com/video/av75470085)
+播放量: 599541     [AV75470085](https://www.bilibili.com/video/av75470085)
+
 睡前消息1112：
 
 河南一农商行陷挤兑危机；
@@ -810,7 +998,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 1163154     [AV75256571](https://www.bilibili.com/video/av75256571)
+播放量: 1191613     [AV75256571](https://www.bilibili.com/video/av75256571)
+
 睡前消息1110：
 
 一款争议药品；
@@ -823,7 +1012,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 473871     [AV74986978](https://www.bilibili.com/video/av74986978)
+播放量: 475726     [AV74986978](https://www.bilibili.com/video/av74986978)
+
 睡前消息1108
 
 第三十九期
@@ -834,7 +1024,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 484913     [AV74663879](https://www.bilibili.com/video/av74663879)
+播放量: 487477     [AV74663879](https://www.bilibili.com/video/av74663879)
+
 睡前消息1105
 
 厦门取消限价拍卖；
@@ -847,7 +1038,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 1069514     [AV74450100](https://www.bilibili.com/video/av74450100)
+播放量: 1073223     [AV74450100](https://www.bilibili.com/video/av74450100)
+
 睡前消息37
 
 146家企业投标保证金被没收；
@@ -860,7 +1052,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 614356     [AV74170916](https://www.bilibili.com/video/av74170916)
+播放量: 616493     [AV74170916](https://www.bilibili.com/video/av74170916)
+
 睡前消息1101
 
 医院里的数据小偷；
@@ -875,7 +1068,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 518793     [AV73855825](https://www.bilibili.com/video/av73855825)
+播放量: 520793     [AV73855825](https://www.bilibili.com/video/av73855825)
+
 睡前消息1029
 
 医保问题；
@@ -886,7 +1080,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 575081     [AV73648395](https://www.bilibili.com/video/av73648395)
+播放量: 577601     [AV73648395](https://www.bilibili.com/video/av73648395)
+
 睡前消息1027
 
 大连14岁少年杀害11岁女孩；
@@ -899,7 +1094,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 776849     [AV73385989](https://www.bilibili.com/video/av73385989)
+播放量: 779008     [AV73385989](https://www.bilibili.com/video/av73385989)
+
 睡前消息1025：
 智利又暴发骚乱；
 郭敬明名誉权案件；
@@ -909,7 +1105,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 530719     [AV73068496](https://www.bilibili.com/video/av73068496)
+播放量: 533012     [AV73068496](https://www.bilibili.com/video/av73068496)
+
 睡前消息1022:
 
 四川省政府搬家；
@@ -922,7 +1119,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 634381     [AV71874993](https://www.bilibili.com/video/av71874993)
+播放量: 636857     [AV71874993](https://www.bilibili.com/video/av71874993)
+
 睡前消息1020
 
 非全日制研究生；
@@ -935,7 +1133,8 @@ IS在中国邻国流窜；
 
 ------
 
-播放量: 914289     [AV71647419](https://www.bilibili.com/video/av71647419)
+播放量: 938524     [AV71647419](https://www.bilibili.com/video/av71647419)
+
 睡前消息1018：
 
 中国西北气候；
@@ -950,7 +1149,8 @@ AI阅卷；
 
 ------
 
-播放量: 535276     [AV71338899](https://www.bilibili.com/video/av71338899)
+播放量: 539232     [AV71338899](https://www.bilibili.com/video/av71338899)
+
 睡前消息1015
 
 徐州要成淮海中心；
@@ -961,7 +1161,8 @@ AI阅卷；
 
 ------
 
-播放量: 487099     [AV71109098](https://www.bilibili.com/video/av71109098)
+播放量: 488655     [AV71109098](https://www.bilibili.com/video/av71109098)
+
 睡前消息1013
 
 关于无锡立交桥事故，马前卒采访了同济大学桥梁工程系教授、现任中国公路学会桥梁与结构工程学理事石雪飞老师
@@ -970,7 +1171,8 @@ AI阅卷；
 
 ------
 
-播放量: 1025680     [AV70887884](https://www.bilibili.com/video/av70887884)
+播放量: 1028528     [AV70887884](https://www.bilibili.com/video/av70887884)
+
 睡前消息1011
 
 抽水蓄能电站发电；
@@ -985,7 +1187,8 @@ AI阅卷；
 
 ------
 
-播放量: 533105     [AV70583750](https://www.bilibili.com/video/av70583750)
+播放量: 535739     [AV70583750](https://www.bilibili.com/video/av70583750)
+
 睡前消息1008
 
 多名院士去世会有影响吗？
@@ -1002,7 +1205,8 @@ AI阅卷；
 
 ------
 
-播放量: 485605     [AV70035727](https://www.bilibili.com/video/av70035727)
+播放量: 487884     [AV70035727](https://www.bilibili.com/video/av70035727)
+
 睡前消息国庆特别版
 
 介绍一些国外的大工程
@@ -1011,14 +1215,16 @@ AI阅卷；
 
 ------
 
-播放量: 531643     [AV69636224](https://www.bilibili.com/video/av69636224)
+播放量: 534543     [AV69636224](https://www.bilibili.com/video/av69636224)
+
 睡前消息：中华人民共和国成立70周年特别节目
 
 ### 【睡前消息23】埃塞：工业不发达，我要建大坝 埃及：水资源匮乏，你建我就打
 
 ------
 
-播放量: 711641     [AV69134291](https://www.bilibili.com/video/av69134291)
+播放量: 716368     [AV69134291](https://www.bilibili.com/video/av69134291)
+
 睡前消息0927
 
 埃塞俄比亚和埃及的尼罗河之争；
@@ -1033,7 +1239,8 @@ AI阅卷；
 
 ------
 
-播放量: 780418     [AV68867125](https://www.bilibili.com/video/av68867125)
+播放量: 783194     [AV68867125](https://www.bilibili.com/video/av68867125)
+
 睡前消息0924
 
 广州花都村民“一元钱看病”；
@@ -1046,7 +1253,8 @@ AI阅卷；
 
 ------
 
-播放量: 538814     [AV68379437](https://www.bilibili.com/video/av68379437)
+播放量: 540811     [AV68379437](https://www.bilibili.com/video/av68379437)
+
 本期【睡前消息】内容
 
 成都小学为男女生开设不同的课程；
@@ -1059,7 +1267,8 @@ AI阅卷；
 
 ------
 
-播放量: 515482     [AV68090805](https://www.bilibili.com/video/av68090805)
+播放量: 517970     [AV68090805](https://www.bilibili.com/video/av68090805)
+
 睡前消息0917
 
 无人机攻击沙特；
@@ -1074,7 +1283,8 @@ AI阅卷；
 
 ------
 
-播放量: 594649     [AV67863691](https://www.bilibili.com/video/av67863691)
+播放量: 600613     [AV67863691](https://www.bilibili.com/video/av67863691)
+
 睡前消息19.5
 
 今天来学学天文地理：
@@ -1091,7 +1301,8 @@ AI阅卷；
 
 ------
 
-播放量: 395135     [AV67611855](https://www.bilibili.com/video/av67611855)
+播放量: 397181     [AV67611855](https://www.bilibili.com/video/av67611855)
+
 睡前消息0913：
 
 武汉晴川学院天价热水费；
@@ -1106,7 +1317,8 @@ AI阅卷；
 
 ------
 
-播放量: 587055     [AV67284532](https://www.bilibili.com/video/av67284532)
+播放量: 588867     [AV67284532](https://www.bilibili.com/video/av67284532)
+
 本期【睡前消息】话题：
 
 日本与台湾“交换”捕鱼配额；
@@ -1121,7 +1333,8 @@ AI阅卷；
 
 ------
 
-播放量: 527290     [AV66825930](https://www.bilibili.com/video/av66825930)
+播放量: 529877     [AV66825930](https://www.bilibili.com/video/av66825930)
+
 本期睡前消息话题：
 
 211高校考研占座；
@@ -1138,14 +1351,16 @@ AI阅卷；
 
 ------
 
-播放量: 577581     [AV66522418](https://www.bilibili.com/video/av66522418)
+播放量: 585128     [AV66522418](https://www.bilibili.com/video/av66522418)
+
 睡前消息190903
 
 ### 【睡前消息15】四川主动送来高压电，江西为啥不想要？
 
 ------
 
-播放量: 608326     [AV66045090](https://www.bilibili.com/video/av66045090)
+播放量: 618628     [AV66045090](https://www.bilibili.com/video/av66045090)
+
 睡前消息190830
 今日话题：
 高考直播班；
@@ -1157,21 +1372,24 @@ AI阅卷；
 
 ------
 
-播放量: 633713     [AV65623675](https://www.bilibili.com/video/av65623675)
+播放量: 636195     [AV65623675](https://www.bilibili.com/video/av65623675)
+
 睡前消息190827
 
 ### 【睡前消息13.5】解放军打赢淮海战役，是如何在后勤上开挂的？
 
 ------
 
-播放量: 543568     [AV65215817](https://www.bilibili.com/video/av65215817)
+播放量: 547917     [AV65215817](https://www.bilibili.com/video/av65215817)
+
 睡前消息：加餐
 
 ### 【睡前消息13】院士被关五年，科研停了，却一份判决书都没有？
 
 ------
 
-播放量: 574217     [AV65045875](https://www.bilibili.com/video/av65045875)
+播放量: 576740     [AV65045875](https://www.bilibili.com/video/av65045875)
+
 本期睡前消息话题：
 沈国舫院士公开信呼吁审结李宁院士案；
 罗布泊填湖；
@@ -1182,7 +1400,8 @@ AI阅卷；
 
 ------
 
-播放量: 535906     [AV64594183](https://www.bilibili.com/video/av64594183)
+播放量: 538794     [AV64594183](https://www.bilibili.com/video/av64594183)
+
 本期睡前消息新闻：
 沈阳立交桥积水事故；
 孟加拉火灾；
@@ -1194,14 +1413,16 @@ AI阅卷；
 
 ------
 
-播放量: 1044294     [AV64007101](https://www.bilibili.com/video/av64007101)
+播放量: 1047854     [AV64007101](https://www.bilibili.com/video/av64007101)
+
 马前卒施工队【睡前消息】190816
 
 ### 【睡前消息】修高铁第一步需要做什么？意大利政府：内斗
 
 ------
 
-播放量: 948263     [AV63557376](https://www.bilibili.com/video/av63557376)
+播放量: 964741     [AV63557376](https://www.bilibili.com/video/av63557376)
+
 本期【睡前消息】话题：
 丹参类药物增加心脏疾病死亡率？
 北大补录二学生；
@@ -1212,14 +1433,16 @@ AI阅卷；
 
 ------
 
-播放量: 921517     [AV62960346](https://www.bilibili.com/video/av62960346)
+播放量: 933500     [AV62960346](https://www.bilibili.com/video/av62960346)
+
 马前卒【睡前消息】190809期
 
 ### 【睡前消息】每年大量从日韩进口的PX，突然被中国“白菜化”了？
 
 ------
 
-播放量: 542056     [AV62515899](https://www.bilibili.com/video/av62515899)
+播放量: 544697     [AV62515899](https://www.bilibili.com/video/av62515899)
+
 睡前消息本期话题：
 井盖被哄抢和西瓜被盗两则新闻；
 财经专业分数线大幅度下降；
@@ -1230,7 +1453,8 @@ AI阅卷；
 
 ------
 
-播放量: 1053683     [AV61922176](https://www.bilibili.com/video/av61922176)
+播放量: 1056796     [AV61922176](https://www.bilibili.com/video/av61922176)
+
 本期马前卒施工队带来的【睡前消息】：
 高铁禁吃泡面；
 台湾人担忧奶茶优势都没了；
@@ -1241,7 +1465,8 @@ AI阅卷；
 
 ------
 
-播放量: 416260     [AV61456938](https://www.bilibili.com/video/av61456938)
+播放量: 418502     [AV61456938](https://www.bilibili.com/video/av61456938)
+
 马前卒施工队·睡前消息07-30
 
 本期话题：
@@ -1258,7 +1483,8 @@ AI阅卷；
 
 ------
 
-播放量: 585002     [AV60872499](https://www.bilibili.com/video/av60872499)
+播放量: 587703     [AV60872499](https://www.bilibili.com/video/av60872499)
+
 马前卒施工队【睡前消息】07-26本期话题：
 阳泉学习安庆模式；
 蔡英文被指控走私万条香烟；
@@ -1270,7 +1496,8 @@ AI阅卷；
 
 ------
 
-播放量: 628531     [AV60454534](https://www.bilibili.com/video/av60454534)
+播放量: 632269     [AV60454534](https://www.bilibili.com/video/av60454534)
+
 马前卒施工队本期【睡前消息】话题：
 
 港珠澳大桥被质疑；
@@ -1285,7 +1512,8 @@ AI阅卷；
 
 ------
 
-播放量: 393169     [AV59869409](https://www.bilibili.com/video/av59869409)
+播放量: 395630     [AV59869409](https://www.bilibili.com/video/av59869409)
+
 本期睡前消息话题：
 
 东阿阿胶股价暴跌；
@@ -1300,7 +1528,8 @@ AI阅卷；
 
 ------
 
-播放量: 964356     [AV59457137](https://www.bilibili.com/video/av59457137)
+播放量: 991273     [AV59457137](https://www.bilibili.com/video/av59457137)
+
 今日睡前消息：
 
 黑龙江伊春市撤除县级编制；
@@ -1315,5 +1544,6 @@ AI阅卷；
 
 ------
 
-播放量: 1279559     [AV58920650](https://www.bilibili.com/video/av58920650)
+播放量: 1310328     [AV58920650](https://www.bilibili.com/video/av58920650)
+
 睡前消息：19/7/12
