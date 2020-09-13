@@ -14,24 +14,26 @@ import xlwt
 
 def main():
     li = []
-    for n in range(1, 13):
+    for n in range(1, 15):
         print("保存第", n, "页")
         root = getJson(n)
         getCon(root, li)
-    saveXl(li)
+    priIt(li)        # 打印markdown格式文本
+    # saveXl(li)     # 保存excel
+    # priIt_Bili(li) # 打印B站专栏富文本格式
 
 
 def getJson(n=1):  # 获取单页JSON数据
     re = requests.get(
-        "http://space.bilibili.com/ajax/member/getSubmitVideos?mid=54992199&pagesize=100&page={}".format(n))
+        "https://api.bilibili.com/x/space/arc/search?mid=54992199&ps=100&tid=0&pn={}&keyword=&order=pubdate&jsonp=jsonp".format(n))
     re.encoding = ("utf-8")
     root = re.json()
     return root
 
 
 def getCon(root, li):  # 传入JSon解析内容进列表
-    for v in root["data"]["vlist"]:
-        if "睡前消息" in v["title"]:
+    for v in root["data"]["list"]["vlist"]:
+        if "【睡前消息" in v["title"]:
             li.append([v["title"], v["description"], v["play"], v["aid"]])
 
 
@@ -52,9 +54,19 @@ def saveXl(li):
 def priIt(li):
     pr = ""
     for i in li:
-        pr += ("\n"+"## "+str(i[0])+"\n" + "------"+"\n"+str(i[1]))
+        pr += ("\n"+"### "+str(i[0])+"\n" + "------"+"\n" +
+               "播放量: "+str(i[2])+"     ["+"AV"+str(i[3])+"]"+"("+"https://www.bilibili.com/video/av"+str(i[3])+")" + "\n\n" + str(i[1]))
+    print(pr)
+
+
+def priIt_Bili(li):
+    pr = ""
+    for i in li:
+        pr += ("\n\n"+"**"+str(i[0])+"**"+"\n" + "\n" +
+               "播放量: " + str(i[2]) + "     av" + str(i[3]) + "\n\n" + str(i[1]))
     print(pr)
 
 
 if __name__ == "__main__":
     main()
+
